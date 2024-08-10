@@ -47,11 +47,3 @@ Currently, I'm diving deep into **NestJS**, enjoying the power and structure it 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
 </p>
-
-### My GitHub Stats
-
-<a href="http://www.github.com/ebrahimbuce">
-  <img src="https://github-readme-stats.vercel.app/api?username=ebrahimbuce&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="ebrahimbuce's GitHub stats" />
-</a>
-
----
