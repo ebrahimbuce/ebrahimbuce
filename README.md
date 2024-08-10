@@ -1,5 +1,3 @@
----
-
 ## Hi, I'm Ebrahim Buceta 👋
 
 ### Software Developer 🚀
