@@ -1,5 +1,3 @@
-Here's the updated version with the additional detail:
-
 ---
 
 ## Hi, I'm Ebrahim Buceta 👋
